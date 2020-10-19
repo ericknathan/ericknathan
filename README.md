@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Olá visitante 👋, seja bem vindo ao meu perfil!</h1>
 
-<!--
-**ErickNathan/ErickNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Apresentação</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+Meu nome é Erick Nathan, tenho 15 anos e sou iniciante em programação e com muito interesse na area. Meu foco é JavaScript porém procuro estudar algumas outras linguagens como HTML, React Native, dentre outros. Ainda estou me encontrando nessa area de desenvolvimento, portanto não estou em algum projeto fixo.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Aprendendo
+<img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/html5.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/css3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/javascript.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/arduino.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/java.png' width='30'/> <img align="right" src="https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/back.png" width="350"/>
+
+---
+
+<div align="center">
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=ErickNathan&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNathan&theme=dark)](https://github.com/ErickNathan/github-readme-stats)
+
+   </div>
