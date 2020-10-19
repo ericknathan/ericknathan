@@ -8,7 +8,7 @@ Meu nome é Erick Nathan, tenho 15 anos e sou iniciante em programação e com m
 
 ---
 
-## 📚 Aprendendo
+## 📚 Linguagens que estou Aprendendo
 <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/html5.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/css3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/javascript.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/arduino.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/java.png' width='30'/>
 
 ---
