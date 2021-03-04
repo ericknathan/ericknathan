@@ -3,7 +3,7 @@
 <h3 align="center">Presentation</h3>
 
 <p align="center">
-My name is Erick Nathan, I am 15 years old and starting my career in software development. I'm currently studying the 1st semester of systems development on Senai.
+My name is Erick Nathan, I am 15 years old and starting my career in software development. I'm currently studying the 1st half of systems development on Senai.
 </p>
 
 ---
