@@ -9,7 +9,7 @@ Meu nome é Erick Nathan, tenho 15 anos e sou iniciante em programação e com m
 ---
 
 ## 📚 Linguagens que estou Aprendendo
-<img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/html5.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/css3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/javascript.svg' width='30'/>
+<img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/html5.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/css3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/javascript.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/java.png' width='30'/> 
 
 ---
 
@@ -17,6 +17,6 @@ Meu nome é Erick Nathan, tenho 15 anos e sou iniciante em programação e com m
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ErickNathan&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNathan&theme=dark)](https://github.com/ErickNathan/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNathan&theme=dark)](https://github.com/ErickNathan/github-readme-stats) -->
 
    </div>
