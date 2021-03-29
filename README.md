@@ -1,22 +1,36 @@
-<h1 align="center">Hi there 👋 I am Erick Nathan :smiley:</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Erick Nathan</h1>
+<h3 align="center">My name is Erick Nathan, I am 15 years old and starting my career in software development. I'm currently studying the 1st semester of systems development on Senai.</h3>
 
-<h3 align="center">Presentation</h3>
+<hr>
 
-<p align="center">
-My name is Erick Nathan, I am 15 years old and starting my career in software development. I'm currently studying the 1st semester of systems development on Senai.
-</p>
+<h3 align="left">About me:</h3>
 
----
+- 🌎 I’m from **Carapicuíba, SP - Brazil**
 
-## 📚 I’m currently learning
-<img src = 'https://camo.githubusercontent.com/d42cacdb5af23f041efb7780aef6b49ac733623684a97a87b000a0821692fee9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465'/> <img src = 'https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465'/> <img src = 'https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145'/> <img src = 'https://camo.githubusercontent.com/7d5385a09d5d71b69a89889e714630a72529ddb331e32cd02b478e01e7712463/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3030373339362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465'/> <img src = 'https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642'/> <img src='https://camo.githubusercontent.com/e7406e1a6c0ab0ae1503e9fe29ab99522d3f261ca09c26597518a6d9ad0113c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732532302d2532333338423241432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465'/>
+- 🌱 I’m currently learning **ReactJS & Java**
 
----
+- 👨‍💻 All of my projects are available at [https://ericknathan.vercel.app/](https://ericknathan.vercel.app/)
 
-<div align="center">
+- 💬 Ask me about **JavaScript, HTML, CSS and Firebase**
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ErickNathan&show_icons=true&theme=light)
+- 📫 How to reach me **erick.capito@hotmail.com**
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNathan&theme=dark)](https://github.com/ErickNathan/github-readme-stats) -->
+<hr>
 
-   </div>
+<h3 align="left">Technologies:</h3>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+  ![NodeJS](https://img.shields.io/badge/Node.js-4EA94B?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-1abcfe?style=for-the-badge&logo=figma&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-e6ac00?style=for-the-badge&logo=firebase&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-f03c2e?style=for-the-badge&logo=git&logoColor=white)
+  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericknathan&show_icons=true&locale=en&layout=compact" alt="ericknathan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknathan&show_icons=true&locale=en" alt="ericknathan" /></p>
