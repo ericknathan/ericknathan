@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Erick Nathan</h1>
-<h3 align="center">My name is Erick Nathan, I am 15 years old and starting my career in software development. I'm currently studying the 1st semester of systems development on Senai.</h3>
+<h3 align="center">My name is Erick Nathan, I am 15 years old and starting my career in development. I'm currently studying the 1st semester of systems development on Senai.</h3>
 
 <hr>
 
@@ -7,9 +7,9 @@
 
 - 🌎 I’m from **Carapicuíba, SP - Brazil**
 
-- 🌱 I’m currently learning **ReactJS & Java**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://ericknathan.vercel.app/](https://ericknathan.vercel.app/)
+- 👨‍💻 All of my projects are available at [In construction...](https://ericknathan.vercel.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS and Firebase**
 
@@ -23,9 +23,8 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-  ![NodeJS](https://img.shields.io/badge/Node.js-4EA94B?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-4EA94B?style=for-the-badge&logo=node-dot-js&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-1abcfe?style=for-the-badge&logo=figma&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-e6ac00?style=for-the-badge&logo=firebase&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-f03c2e?style=for-the-badge&logo=git&logoColor=white)
