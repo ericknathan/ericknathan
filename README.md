@@ -1,5 +1,5 @@
-<h1 align="center">Olá dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Erick Nathan</h1>
-<h3 align="center">Meu nome é Erick Nathan, Eu tenho 15 anos de idade e estou iniciando minha carreira em desenvolvimento. Atualmente estou cursando o 1° semestre de desenvolvimento de sistemas Senai.</h3>
+<h1 align="center">Olá dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Erick Nathan</h1>
+<h3 align="center">Meu nome é Erick Nathan, eu tenho 15 anos de idade e estou iniciando minha carreira em desenvolvimento. Atualmente estou cursando o 1° semestre de desenvolvimento de sistemas Senai.</h3>
 
 <hr>
 
