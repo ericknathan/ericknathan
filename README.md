@@ -1,23 +1,21 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Erick Nathan</h1>
-<h3 align="center">My name is Erick Nathan, I am 15 years old and starting my career in development. I'm currently studying the 1st semester of systems development on Senai.</h3>
+<h1 align="center">Olá dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Erick Nathan</h1>
+<h3 align="center">Meu nome é Erick Nathan, Eu tenho 15 anos de idade e estou iniciando minha carreira em desenvolvimento. Atualmente estou cursando o 1° semestre de desenvolvimento de sistemas Senai.</h3>
 
 <hr>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">Sobre mim:</h3>
 
-- 🌎 I’m from **Carapicuíba, SP - Brazil**
+- 🌎 Eu sou de **Carapicuíba, SP - Brazil**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Atualmente estou aprendendo **React.JS**
 
-- 👨‍💻 All of my projects are available at [In construction...](https://ericknathan.vercel.app/)
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS and Firebase**
 
-- 💬 Ask me about **JavaScript, HTML, CSS and Firebase**
-
-- 📫 How to reach me **erick.capito@hotmail.com**
+- 📫 Contate-me em **erick.capito@hotmail.com**
 
 <hr>
 
-<h3 align="left">Technologies:</h3>
+<h3 align="left">Tecnologias:</h3>
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
