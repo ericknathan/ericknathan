@@ -1,5 +1,5 @@
 ## Olá dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, bem vindo ao meu Gitbub!
-Me chamo Erick Nathan, tenho 15 anos de idade e estou iniciando minha carreira em desenvolvimento. Com 13 anos tive o meu primeiro contato com tecnologia e programação ao me descobrir no mundo de desenvolvimento, onde fiquei fascinado, buscando muitos materiais sobre tecnologia como HTML, CSS e Javascript, principalmente em plataformas audiovisuais como o Youtube. Atualmente estou cursando o 1° semestre de desenvolvimento de sistemas no Senai, aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Erick Nathan, tenho 15 anos de idade e estou iniciando minha carreira em desenvolvimento. Com 13 anos tive o meu primeiro contato com tecnologia e programação ao me descobrir no mundo de desenvolvimento, onde fiquei fascinado, buscando muitos materiais sobre tecnologia como HTML, CSS e Javascript, principalmente em plataformas audiovisuais como o Youtube. Atualmente estou cursando o 2° semestre de desenvolvimento de sistemas no Senai, aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 <hr>
 
