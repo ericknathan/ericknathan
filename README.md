@@ -1,5 +1,5 @@
-<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a rocket on launch" width=40% height=40% />
+<a href="https://blush.design/pt/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley" title="Illustration by Pablo Stanley">
+  <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a astronaut" width=40% height=40% />
 </a>
 
 ## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
