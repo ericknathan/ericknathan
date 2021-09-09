@@ -34,7 +34,7 @@ I'm Erick Nathan 🚀. Currently I'm a Full-Stack jr developer. I'm currently st
   [![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.capito@hotmail.com)
 
   <div align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknathan&show_icons=true&theme=tokyonight&hide_border=true" />
     </a>
   </div>
