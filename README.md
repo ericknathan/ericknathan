@@ -14,7 +14,7 @@ I'm Erick Nathan 🚀. Currently I'm a Full-Stack jr developer. I'm currently st
 
 📡 API with NodeJs & Express.js
 
-💾 Database with Firebase
+💾 Database with Firebase/SQL 
 
 ### About me:
 
