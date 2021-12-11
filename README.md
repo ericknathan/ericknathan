@@ -8,19 +8,19 @@ I'm Erick Nathan 🚀. Currently I'm a Full-Stack jr developer. I'm currently st
 
 ### Currently my stack is:
 
-📱 Mobile applications for Android and iOS with React Native
+📱 Mobile applications for Android and iOS with React Native and Kotlin
 
 💻 Web front-end development with ReactJs
 
-📡 API with NodeJs & Express.js
+📡 API with NodeJs and Express.js
 
-💾 Database with Firebase/SQL 
+💾 Database with Firebase & relational databases (SQL)
 
 ### About me:
 
-- 🎓 I am currently learning **PHP & Kotlin** in the Systems Development course at SENAI Jandira.
+- 🎓 I am currently learning **PHP and Kotlin** in the Systems Development course at SENAI Jandira.
 
-- 💬 Ask me about anything, but know that I'm passionate about technology
+- 💬 Ask me about anything, but know that I'm a tech newcomer
 
 - 🔭 I'm always open to discover new things
 
