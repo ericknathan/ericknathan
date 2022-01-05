@@ -4,6 +4,8 @@
 
 ## Fala dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
+<a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a>
+
 Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack jr. Atualmente estou cursando o 3° semestre de Desenvolvimento de Sistemas, aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 ### Atualmente minha stack é:
@@ -38,8 +40,3 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack jr. Atualmente e
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknathan&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
   </a>
 </div>
-
-
----
-
-<a href="https://github.com/ericknathan/ericknathan/edit/main/README-EN.md">🇺🇸 Click here to view the english version
