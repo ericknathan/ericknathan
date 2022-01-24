@@ -20,7 +20,7 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack jr. Atualmente e
 
 ### About me:
 
-- 🎓 Atualmente estou aprendendo **PHP and Kotlin** no curso de Desenvolvimento de Sistemas no SENAI Jandira.
+- 🎓 Atualmente estou aprendendo **PHP e Kotlin** no curso de Desenvolvimento de Sistemas no SENAI Jandira.
 
 - 💬 Pergunte-me sobre qualquer coisa, mas saiba que estamos em um processo de aprendizado contínuo ;)
 
