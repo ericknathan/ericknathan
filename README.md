@@ -37,6 +37,6 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack jr. Atualmente e
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknathan&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknathan&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" />
   </a>
 </div>
