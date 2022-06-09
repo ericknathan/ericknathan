@@ -2,7 +2,7 @@
   <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a astronaut" width=40% height=40% />
 </a>
 
-## Fala dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Fala dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
 <a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a>
 
