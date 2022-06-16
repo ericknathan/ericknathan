@@ -6,33 +6,33 @@
 
 <a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a>
 
-Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack jr. Atualmente estou cursando o 3° semestre de Desenvolvimento de Sistemas, aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack. Finalizei o curso técnico de Desenvolvimento de Sistemas e estou aprimorando cada vez mais meus conhecimentos técnicos, pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 ### Atualmente minha stack é:
 
-📱 Aplicativos Mobile para Android e iOS com React Native ou Kotlin (Apenas Android)
+📱 Aplicativos para dispositivos móveis com Java/Kotlin (Apenas Android) ou React Native (Sistemas hibridos)
 
-💻 Desenvolvimento Web front-end com ReactJS
+💻 Desenvolvimento Web front-end com ReactJS, dependendo do caso em conjunto de framework NextJS
 
-📡 APIs com Node.js ou PHP
+📡 APIs REST utilizando Node.js ou PHP
 
-💾 Armazenamento em bancos de dados relacionais (SQL), MongoDB ou Firebase
+💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL e PostgreSQL ou Firebase
 
-### About me:
+### Sobre mim:
 
-- 🎓 Atualmente estou aprendendo **PHP e Kotlin** no curso de Desenvolvimento de Sistemas no SENAI Jandira.
+- 🎓 Finalizei um curso técnico em Desenvolvimento de Sistemas no SENAI Jandira em Junho de 2022.
 
 - 💬 Pergunte-me sobre qualquer coisa, mas saiba que estamos em um processo de aprendizado contínuo ;)
 
-- 🔭 Estou sempre aberto para descobrir coisas novas
+- 🔭 Estou sempre aberto para descobrir coisas novas.
 
-- 💡 Tento ajudar as pessoas que estão iniciando na programação
+- 💡 Tento ajudar as pessoas que estão iniciando na programação.
 
 <hr>
 
 ### Contate-me em:
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericknathan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onathandev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ericknathann)
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.capito@hotmail.com)
 
 <div align="center">
