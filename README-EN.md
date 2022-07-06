@@ -18,6 +18,8 @@ I'm Erick Nathan 🚀 and I work as a Full-Stack Developer. I finished the Syste
 
 ### About me:
 
+- 💻 Currently working at [Pagtel](https://pagtel.com.br).
+- 
 - 🎓 I finished a technical course in Systems Development at SENAI Jandira in June 2022.
 
 - 💬 Ask me about anything, but know that we are in a continuous learning process ;)
@@ -30,7 +32,7 @@ I'm Erick Nathan 🚀 and I work as a Full-Stack Developer. I finished the Syste
 
 ### Contact me on:
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericknathan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ericknathann)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onathannsz)
 [![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.capito@hotmail.com)
 
 <div align="center">
