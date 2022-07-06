@@ -20,6 +20,8 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack. Finalizei o cur
 
 ### Sobre mim:
 
+- 💻 Trabalhando atualmente na [Pagtel](https://pagtel.com.br).
+
 - 🎓 Finalizei um curso técnico em Desenvolvimento de Sistemas no SENAI Jandira em Junho de 2022.
 
 - 💬 Pergunte-me sobre qualquer coisa, mas saiba que estamos em um processo de aprendizado contínuo ;)
@@ -32,7 +34,7 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack. Finalizei o cur
 
 ### Contate-me em:
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericknathan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ericknathann)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onathannsz)
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.capito@hotmail.com)
 
 <div align="center">
