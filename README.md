@@ -20,7 +20,7 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack. Finalizei o cur
 
 ### Sobre mim:
 
-- 💻 Trabalhando atualmente na [Pagtel](https://pagtel.com.br).
+- 💻 Trabalho atualmente na [Pagtel](https://pagtel.com.br) e sou freelancer nas horas vagas.
 
 - 🎓 Finalizei um curso técnico em Desenvolvimento de Sistemas no SENAI Jandira em Junho de 2022.
 
