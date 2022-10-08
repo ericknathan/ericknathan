@@ -18,8 +18,8 @@ I'm Erick Nathan 🚀 and I work as a Full-Stack Developer. I finished the Syste
 
 ### About me:
 
-- 💻 Currently working at [Pagtel](https://pagtel.com.br).
-- 
+- 💻 I currently work at [Pagtel](https://pagtel.com.br) and am a freelancer in my spare time.
+
 - 🎓 I finished a technical course in Systems Development at SENAI Jandira in June 2022.
 
 - 💬 Ask me about anything, but know that we are in a continuous learning process ;)
