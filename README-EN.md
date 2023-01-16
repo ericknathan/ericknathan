@@ -8,13 +8,13 @@ I'm Erick Nathan 🚀 and I work as a Full-Stack Developer. I finished the Syste
 
 ### Currently my stack is:
 
-📱 Mobile apps with Java/Kotlin (Android only) or React Native (Hybrid systems)
+📱 Mobile Apps with React Native (Hybrid Systems) and some knowledge to use Java and Kotlin natively
 
-💻 Front-end web development with ReactJS, depending on the case in NextJS framework set
+💻 Front-end web development with ReactJS and its derived libraries
 
-📡 REST APIs using Node.js or PHP
+📡 REST APIs using Node.js and its main libraries
 
-💾 Storage in relational databases (SQL) like MySQL and PostgreSQL or Firebase
+💾 Storage in relational databases (SQL) like MySQL or non-relational using Firebase/MongoDB
 
 ### About me:
 
