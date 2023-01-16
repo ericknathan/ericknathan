@@ -10,23 +10,23 @@ Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack. Finalizei o cur
 
 ### Atualmente minha stack é:
 
-📱 Aplicativos para dispositivos móveis com Java/Kotlin (Apenas Android) ou React Native (Sistemas hibridos)
+📱 Aplicativos para dispositivos móveis com React Native (Sistemas hibridos) e alguns conhecimentos para utilização de Java e Kotlin de forma nativa
 
-💻 Desenvolvimento Web front-end com ReactJS, dependendo do caso em conjunto de framework NextJS
+💻 Desenvolvimento Web front-end com ReactJS e suas bibliotecas derivadas
 
-📡 APIs REST utilizando Node.js ou PHP
+📡 APIs REST utilizando Node.js e suas principais bibliotecas
 
-💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL e PostgreSQL ou Firebase
+💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL ou não relacionais utilizando Firebase/MongoDB
 
 ### Sobre mim:
 
-- 💻 Trabalho atualmente na [Pagtel](https://pagtel.com.br) e sou freelancer nas horas vagas.
+- 💻 Trabalho atualmente na [Pagtel](https://pagtel.com.br).
 
 - 🎓 Finalizei um curso técnico em Desenvolvimento de Sistemas no SENAI Jandira em Junho de 2022.
 
 - 💬 Pergunte-me sobre qualquer coisa, mas saiba que estamos em um processo de aprendizado contínuo ;)
 
-- 🔭 Estou sempre aberto para descobrir coisas novas.
+- 🔭 Estou sempre aberto para descobrir coisas novas.
 
 - 💡 Tento ajudar as pessoas que estão iniciando na programação.
 
