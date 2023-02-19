@@ -2,31 +2,33 @@
   <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a astronaut" width=40% height=40% />
 </a>
 
-## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+## Hi there 👋
 
-I'm Erick Nathan 🚀 and I work as a Full-Stack Developer. I finished the Systems Development technical course and I'm improving my technical knowledge more and more, ready to be able to impact more and more lives and routines using programming!
+My name is Erick Nathan 🚀 and I work as a Front-end Developer, improving my technical knowledge more and more, being prepared to be able to impact more and more lives and routines using programming!
 
 ### Currently my stack is:
 
-📱 Mobile Apps with React Native (Hybrid Systems) and some knowledge to use Java and Kotlin natively
+💻 Front-end web development with ReactJS and Svelte together with their derived libraries like NextJS and SvelteKit respectively.
 
-💻 Front-end web development with ReactJS and its derived libraries
+📱 Mobile Apps with React Native (Hybrid Systems) and some knowledge to use Java and Kotlin natively.
 
-📡 REST APIs using Node.js and its main libraries
+📡 REST APIs using Node.js and its main libraries.
 
-💾 Storage in relational databases (SQL) like MySQL or non-relational using Firebase/MongoDB
+💾 Storage in relational databases (SQL) like MySQL or non-relational using Firebase/MongoDB.
 
 ### About me:
 
-- 💻 I currently work at [Pagtel](https://pagtel.com.br) and am a freelancer in my spare time.
+- 💻 I currently work at [Pagtel](https://pagtel.com.br).
 
-- 🎓 I finished a technical course in Systems Development at SENAI Jandira in June 2022.
+- 📚 I'm studying Systems Analysis and Development at FIAP - Faculty of Informatics and Administration Paulista from Brazil.
 
-- 💬 Ask me about anything, but know that we are in a continuous learning process ;)
+- 🎓 I am a technician trained in Systems Development by SENAI Jandira.
 
-- 🔭 I'm always open to discover new things.
+- 🔭 I'm always open to discovering new things.
 
-- 💡 I try to help people who are starting in programming.
+- 💬 Ask me about anything, know that we are in a continuous learning process ;)
+
+- 💡 I try to help people who are starting programming.
 
 <hr>
 
