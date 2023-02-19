@@ -2,33 +2,35 @@
   <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a astronaut" width=40% height=40% />
 </a>
 
-## Fala dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+## Fala dev 👋
 
 <a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a>
 
-Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack. Finalizei o curso técnico de Desenvolvimento de Sistemas e estou aprimorando cada vez mais meus conhecimentos técnicos, pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Front-end, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 ### Atualmente minha stack é:
 
-📱 Aplicativos para dispositivos móveis com React Native (Sistemas hibridos) e alguns conhecimentos para utilização de Java e Kotlin de forma nativa
+💻 Desenvolvimento Web front-end com ReactJS e Svelte em conjunto de suas bibliotecas derivadas como NextJS e SvelteKit respectivamente.
 
-💻 Desenvolvimento Web front-end com ReactJS e suas bibliotecas derivadas
+📱 Aplicativos para dispositivos móveis com React Native (Sistemas hibridos) e alguns conhecimentos para utilização de Java e Kotlin de forma nativa.
 
-📡 APIs REST utilizando Node.js e suas principais bibliotecas
+📡 APIs REST utilizando Node.js e suas principais bibliotecas como o express.
 
-💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL ou não relacionais utilizando Firebase/MongoDB
+💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL ou não relacionais utilizando Firebase/MongoDB.
 
 ### Sobre mim:
 
 - 💻 Trabalho atualmente na [Pagtel](https://pagtel.com.br).
 
-- 🎓 Finalizei um curso técnico em Desenvolvimento de Sistemas no SENAI Jandira em Junho de 2022.
+- 📚 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP - Faculdade de Informática e Administração Paulista.
 
-- 💬 Pergunte-me sobre qualquer coisa, mas saiba que estamos em um processo de aprendizado contínuo ;)
+- 🎓 Sou formado técnico em Desenvolvimento de Sistemas pelo SENAI Jandira.
 
 - 🔭 Estou sempre aberto para descobrir coisas novas.
 
-- 💡 Tento ajudar as pessoas que estão iniciando na programação.
+- 💬 Pergunte-me sobre qualquer coisa, saiba que estamos em um processo de aprendizado contínuo ;)
+
+- 💡 Tento ajudar as pessoas que estão iniciando em programação.
 
 <hr>
 
