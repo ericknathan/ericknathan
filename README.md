@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a>
 
-Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-Stack, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Front-end, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 ### Atualmente minha stack é:
 
