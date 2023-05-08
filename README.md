@@ -4,7 +4,7 @@
 
 ## Fala dev 👋
 
-<a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a>
+<a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
 
 Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-stack, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
