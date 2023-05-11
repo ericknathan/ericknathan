@@ -1,10 +1,10 @@
 <a href="https://blush.design/pt/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley" title="Illustration by Pablo Stanley">
-  <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a astronaut" width=40% height=40% />
+  <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="an astronaut illustration" width=40% height=40% />
 </a>
 
 ## Hi there 👋
 
-My name is Erick Nathan 🚀 and I work as a Full-stack Developer, improving my technical knowledge more and more, being prepared to be able to impact more and more lives and routines using programming!
+My name is Erick Nathan 🚀 and I work as a Front-end Developer, improving my technical knowledge more and more, being prepared to be able to impact more and more lives and routines using programming!
 
 ### Currently my stack is:
 

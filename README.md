@@ -1,12 +1,12 @@
 <a href="https://blush.design/pt/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley" title="Illustration by Pablo Stanley">
-  <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="a astronaut" width=40% height=40% />
+  <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="ilustração de um astronauta" width=40% height=40% />
 </a>
 
 ## Fala dev 👋
 
 <a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
 
-Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Full-stack, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Erick Nathan 🚀 e atuo como Desenvolvedor Front-end, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 ### Atualmente minha stack é:
 
