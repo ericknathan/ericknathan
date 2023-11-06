@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-My name is Erick Nathan 🚀 and I work as a full-stack developer focused on front-end, improving my technical knowledge more and more, being prepared to be able to impact more and more lives and routines using programming!
+My name is Erick Nathan 🚀 and I work as a front-end developer, improving my technical knowledge more and more, being prepared to be able to impact more and more lives and routines using programming!
 
 ### Currently my stack is:
 
