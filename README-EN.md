@@ -18,7 +18,7 @@ My name is Erick Nathan 🚀 and I work as a front-end developer, improving my t
 
 ### About me:
 
-- 💻 I currently work at [Pagtel](https://pagtel.com.br).
+- 💻 I currently work at [Tixit](https://tixit.com.br).
 
 - 📚 I'm studying Systems Analysis and Development at FIAP - Faculty of Informatics and Administration Paulista from Brazil.
 
