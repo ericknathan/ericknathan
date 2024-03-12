@@ -20,7 +20,7 @@ Me chamo Erick Nathan 🚀 e atuo como desenvolvedor Front-end, aprimorando cada
 
 ### Sobre mim:
 
-- 💻 Trabalho atualmente na [Pagtel](https://pagtel.com.br).
+- 💻 Trabalho atualmente na [Tixit](https://tixit.com.br).
 
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP - Faculdade de Informática e Administração Paulista.
 
