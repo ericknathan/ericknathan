@@ -22,9 +22,9 @@ Me chamo Erick Nathan 🚀 e atuo como desenvolvedor Front-end, aprimorando cada
 
 - 💻 Trabalho atualmente na [Febrafar](https://febrafar.com.br).
 
-- 📚 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP - Faculdade de Informática e Administração Paulista.
+- 📚 Graduado em Análise e Desenvolvimento de Sistemas pela FIAP (Faculdade de Informática e Administração Paulista).
 
-- 🎓 Sou formado técnico em Desenvolvimento de Sistemas pelo SENAI Jandira.
+- 🎓 Sou formado técnico em Desenvolvimento de Sistemas pelo SENAI.
 
 - 🔭 Estou sempre aberto para descobrir coisas novas.
 
