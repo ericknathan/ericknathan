@@ -20,7 +20,7 @@ My name is Erick Nathan 🚀 and I work as a front-end developer, improving my t
 
 - 💻 I currently work at [Febrafar](https://febrafar.com.br).
 
-- 📚 I'm studying Systems Analysis and Development at FIAP - Faculty of Informatics and Administration Paulista from Brazil.
+- 📚 Graduated in Systems Analysis and Development at FIAP.
 
 - 🎓 I am a technician trained in Systems Development by SENAI Jandira.
 
